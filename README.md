@@ -79,6 +79,11 @@
 
 ### 1.安装环境
 ```bash
+nvidia-smi
+git clone https://github.com/WangRongsheng/XrayGLM.git
+cd XrayGLM/
+conda create -n xrayglm python=3.10 -y
+conda activate xrayglm
 # 安装依赖
 pip install -r requirements.txt
 # 国内换源安装依赖
