@@ -84,7 +84,7 @@ git clone https://github.com/WangRongsheng/XrayGLM.git
 cd XrayGLM/
 conda create -n xrayglm python=3.10 -y
 conda activate xrayglm
-```bash
+```
 
 ```bash
 # 安装依赖
